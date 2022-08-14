@@ -46,10 +46,14 @@ We show that the combination of features - Differential Entropy, Geometric Power
 <img width="483" alt="image" src="https://user-images.githubusercontent.com/44093589/126903857-d6dc241b-5d5a-4dd7-bee1-637c5ac396d8.png">
 
 ## Publications :
-[P. Saravanan, S. S. Chandra, A. Upadhye and S. Gurugopinath, ”A Supervised Learning Approach for Differential Entropy Feature-based Spectrum Sensing,” Proc. International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET), Chennai, India, Mar. 2021.](https://ieeexplore.ieee.org/document/9419447)
+
+
+[S. S. Chandra, A. Upadhye, P. Saravanan and S. Gurugopinath, ”Deep Neural Network Architectures for                    Spectrum Sensing Using Signal Processing Features,” Proc. IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER), Nitte, India, Nov. 2021. ](https://ieeexplore.ieee.org/document/9663583)
   
-A. Upadhye, P. Saravanan, S. S. Chandra and S. Gurugopinath, ”A Survey on Machine Learning Algorithms for Applications in Cognitive Radio Networks,” Proc. International Conference on Electronics, Computing and Communication Technologies(CONECCT), Bengaluru, India, Jul. 2021.(In review)
-https://arxiv.org/abs/2106.10413
+[P. Saravanan, S. S. Chandra, A. Upadhye and S. Gurugopinath, ”A Supervised Learning Approach for Differential Entropy Feature-based Spectrum Sensing,” Proc. International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET), Chennai, India, Mar. 2021.](https://ieeexplore.ieee.org/document/9419447)
+
+[A. Upadhye, P. Saravanan, S. S. Chandra and S. Gurugopinath, ”A Survey on Machine Learning Algorithms for Applications in Cognitive Radio Networks,” Proc. International Conference on Electronics, Computing and Communication Technologies(CONECCT), Bengaluru, India, Jul. 2021.](https://ieeexplore.ieee.org/document/9622610)
+  
 
 If you use the our code and/or system model with proposed features, please cite the above publications.
 
